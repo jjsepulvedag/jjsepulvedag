@@ -1,8 +1,8 @@
-<h1 align="left">Hi Folks 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 
 
-My name is *Juan José Sepúlveda García* and I am from Colombia. I am an enthusiast on earth sciences and the application of engineering on them, so I like geology, hydrology, geotechnics and so on. 
-I really like programming and I use it to optimize many of my tasks.
+My name is *Juan José Sepúlveda García*. I am an enthusiast of earth sciences and the application of engineering to them; I like geology, hydrology, and geotechnics.
+I am currently studying for a PhD in Earthquake Engineering at the University of Canterbury - New Zealand. 
 
 
 <h3 align="left">Skills:</h3>
@@ -17,8 +17,6 @@ I really like programming and I use it to optimize many of my tasks.
 
 
 <h3 align="left">Work:</h3>
-
-- 🔭 I’m currently working on [GeoLab](https://github.com/juanjosesg/GeoLab.git)
 
 - 🌱 I’m currently learning **FORTRAN** and **C**
 
