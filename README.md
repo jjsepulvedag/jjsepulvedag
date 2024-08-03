@@ -1,4 +1,4 @@
-<h1 align="left">Hi there stalker 👋</h1>
+<h1 align="left">Hi there folks 👋</h1>
 
 
 My name is *Juan José Sepúlveda García*. I am a civil engineer with a Master on Geotechnics from Colombia. 
@@ -18,7 +18,9 @@ Currently pursuing a PhD in Earthquake engineering in New Zealand.
 <h3 align="left">Work:</h3>
 
 [Personal page](https://sites.google.com/view/juanjosesepulvedagarcia/home)
+
 [Google scholar](https://scholar.google.com/citations?user=svbgHm0AAAAJ&hl=es)
+
 [Mater's thesis](https://repositorio.unal.edu.co/handle/unal/80527)
 
 
