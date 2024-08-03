@@ -15,7 +15,7 @@ Currently pursuing a PhD in Earthquake engineering in New Zealand.
 - Latex
 - C
 
-<h3 align="left">Work:</h3>
+<h3 align="left">My work:</h3>
 
 [Personal page](https://sites.google.com/view/juanjosesepulvedagarcia/home)
 
