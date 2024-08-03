@@ -1,27 +1,27 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="left">Hi there stalker 👋</h1>
 
 
-My name is *Juan José Sepúlveda García*. I am an enthusiast of earth sciences and the application of engineering to them; I like geology, hydrology, and geotechnics.
-I am currently studying for a PhD in Earthquake Engineering at the University of Canterbury - New Zealand. 
+My name is *Juan José Sepúlveda García*. I am a civil engineer with a Master on Geotechnics from Colombia. 
 
+I am highly interested in research areas related to the application of probability theory, data science, and machine learning in Geotechnics, Eartquake engineering, and related Earth sciences. 
 
-<h3 align="left">Skills:</h3>
+Currently pursuing a PhD in Earthquake engineering in New Zealand. 
 
-* Python (numpy, scipy, pandas, matplotlib)
+<h3 align="left">Interests and skills:</h3>
 
-* Git and GitHub
-
-* Linux
-
-* VS Code
-
+- Python (with its scientific libraries: numpy, scipy, matplotlib, pandas)
+- Linux, bash scripting
+- R programming language
+- Latex
+- C
 
 <h3 align="left">Work:</h3>
 
-- 🌱 I’m currently learning **FORTRAN** and **C**
+[Personal page](https://sites.google.com/view/juanjosesepulvedagarcia/home)
+[Google scholar](https://scholar.google.com/citations?user=svbgHm0AAAAJ&hl=es)
+[Mater's thesis](https://repositorio.unal.edu.co/handle/unal/80527)
 
-- 📝 I write articles on Geotechnical and Earthquake engineering.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
 
