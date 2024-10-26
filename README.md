@@ -5,7 +5,7 @@ My name is *Juan José Sepúlveda García*. I am a civil engineer with a Master'
 
 I am highly interested in research areas related to the application of probability theory, data science, and machine learning in Geotechnics, earthquake engineering, and related Earth sciences. 
 
-I am currently pursuing a PhD in Earthquake engineering at the University of Canterbury in New Zealand. 
+I am pursuing a PhD in Earthquake engineering at the University of Canterbury in New Zealand. 
 
 <h3 align="left">Interests:</h3>
 
