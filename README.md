@@ -18,7 +18,7 @@ I am pursuing a PhD in Earthquake engineering at the University of Canterbury in
 
 <h3 align="left">My work:</h3>
 
-[Personal page](https://sites.google.com/view/juanjosesepulvedagarcia/home)
+[Personal page](https://jjsepulvedag.github.io/)
 
 [Google scholar](https://scholar.google.com/citations?user=svbgHm0AAAAJ&hl=es)
 
